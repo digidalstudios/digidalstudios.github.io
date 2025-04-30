@@ -1,1 +1,1 @@
-Replace `roblox://` with `digidalstudios.github.io/?`, for Discord linking.
+Replace `roblox://` with `https://digidalstudios.github.io/?`, for Discord linking.
