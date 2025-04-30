@@ -1,5 +1,5 @@
 var newlocation = window.location.href
-if (newlocation === "https://digidalstudios.github.io") {
+if (newlocation === "https://digidalstudios.github.io/") {
   window.location.href = "roblox://"
   throw ''
 }
