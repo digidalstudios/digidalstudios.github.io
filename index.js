@@ -4,4 +4,3 @@ if (newlocation === "https://digidalstudios.github.io/") {
   throw ''
 }
 window.location.href = newlocation.replace("https://digidalstudios.github.io/?", "roblox://")
-window.close()
