@@ -1,3 +1,2 @@
-const siteLocation = window.location.href
-siteLocation.replace("digidalstudios.github.io/?", "roblox://")
-window.open(siteLocation)
+var newlocation = window.location.href
+window.location.href = newlocation.replace("https://digidalstudios.github.io/?", "roblox://")
