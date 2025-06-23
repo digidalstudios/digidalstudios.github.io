@@ -487,7 +487,7 @@ body,html {
 .platform-events-footer {
     min-height: 287px;
     width: 100%;
-    background: 50% url(https://web.archive.org/web/20240525025138im_/https://images.rbxcdn.com/63e7d689844338b6ce990f013d76ffc8-background.jpg) no-repeat;
+    background: 50% url("./Promo 1.jpg") no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
