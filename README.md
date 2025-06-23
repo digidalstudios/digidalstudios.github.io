@@ -1,1 +1,1 @@
-[Looking for Discord to `roblox://` redirector?](https://github.com/robloxredirect/robloxredirect)
+[Looking for Discord to `roblox://` redirector?](https://github.com/robloxredirect/robloxredirect.github.io)
